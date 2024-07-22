@@ -1,0 +1,20 @@
+[
+    {
+        "category": "NAME",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_LINKED_TO_YOU"
+        ]
+    },
+    {
+        "category": "HEALTH",
+        "purposes": [
+            "THIRD_PARTY_ADVERTISING"
+        ],
+        "data_protections": [
+            "DATA_NOT_LINKED_TO_YOU"
+        ]
+    }
+]
